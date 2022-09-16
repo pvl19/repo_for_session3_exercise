@@ -2,7 +2,6 @@ import numpy as np
 
 # In this file, you'll put all the functions for creating the Fibonacci sequence up to a certain number.
 
-
 def fibSequence(n):
     sequence = []
     if n<=0:
