@@ -6,7 +6,7 @@ import numpy as np
 def fibSequence(n):
     sequence = []
     if n<=0:
-        return print("Please specify a whole number!")
+        return print("Please specify a natural number!")
     else:
         sequence.append(0)
         if n==2:
